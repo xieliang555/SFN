@@ -2,7 +2,9 @@
 
 <!-- <center>![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)</center> -->
 
+<div align=center>
 <img src="assets/cover.png" width="40%" ></img>
+</div>
 
 
 ## Abstract
