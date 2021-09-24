@@ -1,6 +1,8 @@
 # SFN
 
-![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)
+<!-- <center>![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)</center> -->
+
+<img src="assets/cover.png" width="30%" ></img>
 
 ## Downloads
 
