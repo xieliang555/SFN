@@ -11,7 +11,8 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 ## Eye-to-hand
 description
 <center class="half">
-    <img src="assets/cover.png" width="30%" align=left/ ><img src="assets/v2.gif" width="50%"  align=right/>
+    <img src="assets/cover.png" width="30%" / >
+    <img src="assets/v2.gif" width="50%" />
 </center>
 
 ## eye-in-hand
