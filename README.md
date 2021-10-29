@@ -14,8 +14,6 @@ description
     <img src="assets/cover.png" width="30%" align=left ><img src="assets/v2.gif" width="50%"  align=right>
 </center>
 
-
-
 ## eye-in-hand
 description
 <figure class="half">
