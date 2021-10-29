@@ -19,8 +19,7 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 ## eye-in-hand
 
 <figure class="half">
-    <img src="assets/sim.png" width="20%" align=left >
-    <img src="assets/real.png" width="20%"  align=right>
+    <img src="assets/sim.png" width="20%" align=left ><img src="assets/real.png" width="20%"  align=right>
 </figure>
 
 
