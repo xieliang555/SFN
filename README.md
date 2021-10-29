@@ -12,7 +12,7 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 description
 <p float="left">
     <img src="assets/cover.png" width="30%" / >
-    <img src="assets/v2.gif" width="50%" />
+    <img src="assets/v2.gif" width="400" height="400" />
 </p>
 
 ## Eye-in-hand
