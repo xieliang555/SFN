@@ -11,7 +11,7 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 ## Eye-to-hand
 description
 <p float="left">
-    <img src="assets/cover.png" width="300" height="400" / >
+    <img src="assets/cover.png" width="300" height="350" / >
     <img src="assets/v2.gif" width="60%" />
 </p>
 
