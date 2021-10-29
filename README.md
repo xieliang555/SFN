@@ -10,10 +10,10 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 
 ## Eye-to-hand
 description
-<center class="half">
+<p float="left">
     <img src="assets/cover.png" width="30%" / >
     <img src="assets/v2.gif" width="50%" />
-</center>
+</p>
 
 ## eye-in-hand
 description
