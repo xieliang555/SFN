@@ -5,7 +5,7 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 <!-- <center>![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)</center> -->
 
 ## Automatic data collection and annotation
-The data collection, annotation and model training for the segmentation module can be achieved efficiently within 30mins in real world.
+The data collection and model training for the segmentation module can be achieved efficiently within 30mins in real world under the automatic data collection and annotation pipeline.
 <div align=center>
     <img src="assets/v1.gif" width="40%" ></img>
 </div> 
