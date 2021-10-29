@@ -5,7 +5,7 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 <!-- <center>![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)</center> -->
 
 ## Automatic data collection and annotation
-<img src="assets/v1.gif" width="30%" ></img>
+<img src="assets/v1.gif" width="40%" ></img>
 
 
 ## Eye-to-hand
