@@ -16,18 +16,18 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 
 
 
-## eye-in-hand
+<!-- ## eye-in-hand
 
 <figure class="half">
     <img src="assets/sim.png" width="20%" align=left ><img src="assets/real.png" width="20%"  align=right>
-</figure>
+</figure> -->
 
 
 <!-- <div align=center>
 <img src="assets/cover.png" width="40%" ></img>
 </div> -->
 
-## Downloads
+<!-- ## Downloads
 
 - Video: [[YouTube](https://www.youtube.com/watch?v=L5AhgDvevKA)][[bilibili](https://www.bilibili.com/video/BV1Zf4y1w7ea?spm_id_from=333.999.0.0)]
 - PDF: [[Supplementary](https://xieliang555.github.io/post/text/icra_supplementary.pdf)]
@@ -36,5 +36,5 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 
 ## To do
 
-- add eye-in-hand
+- add eye-in-hand -->
 
