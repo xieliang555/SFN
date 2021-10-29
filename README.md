@@ -12,10 +12,12 @@ The data collection, annotation and model training for the segmentation module c
 
 ## Eye-to-hand
 The proposed method generalizes well on different unseen shapes under sub-millimeter tolerance in real world.
-<p float="left">
-    <img src="assets/cover.png" width="300" height="340" / >
-    <img src="assets/v2.gif" width="60%" />
-</p>
+<div align=center>
+    <p float="left">
+        <img src="assets/cover.png" width="300" height="340" / >
+        <img src="assets/v2.gif" width="60%" />
+    </p>
+</div>
 
 ## Eye-in-hand
 The proposed method generalizes well on the eye-in-hand experiment setting, where the camera is fixed on the robot end-effector and follows up with the robot. The hole base can be either fixed or under disturbance.
