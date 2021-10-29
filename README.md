@@ -18,8 +18,8 @@ description
 ## Eye-in-hand
 description
 <p float="left">
-    <img src="assets/sim.png" width="150" height="300"/ >
-    <img src="assets/real.png" width="150" height="300" />
+    <img src="assets/sim.png" width="150" height="200"/ >
+    <img src="assets/real.png" width="150" height="200" />
     <img src="assets/v3.gif" width="30%"/>
     <img src="assets/v4.gif" width="30%"/>
 </p>
