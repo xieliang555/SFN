@@ -31,10 +31,6 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
 </div>
 
 
-<!-- <div align=center>
-<img src="assets/cover.png" width="40%" ></img>
-</div> -->
-
 ## Downloads
 
 - Video: [[YouTube](https://www.youtube.com/watch?v=L5AhgDvevKA)][[bilibili](https://www.bilibili.com/video/BV1Zf4y1w7ea?spm_id_from=333.999.0.0)]
