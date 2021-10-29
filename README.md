@@ -6,8 +6,9 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 
 ## Automatic data collection and annotation
 The data collection, annotation and model training for the segmentation module can be achieved efficiently within 30mins in real world.
-<img src="assets/v1.gif" width="40%" ></img>
-
+<center>
+    <img src="assets/v1.gif" width="40%" ></img>
+<center/>
 
 ## Eye-to-hand
 The proposed method generalizes well on different unseen shapes under sub-millimeter tolerance in real world.
