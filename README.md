@@ -4,17 +4,17 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 
 <!-- <center>![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)</center> -->
 
-## automatic data collection and annotation
+## Automatic data collection and annotation
 <img src="assets/v1.gif" width="30%" ></img>
 
 
-## eye-to-hand
+## Eye-to-hand
 
-Experinment setting
-<img src="assets/cover.png" width="30%" ></img>
+<figure class="half">
+    <img src="assets/cover.png" width="30%" ></img>
+    <img src="assets/v2.gif" width="30%" ></img>
+</figure>
 
-Generalization on unseen shapes
-<img src="assets/v2.gif" width="30%" ></img>
 
 
 ## eye-in-hand
