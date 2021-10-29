@@ -12,7 +12,7 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 
 <figure class="half">
     <img src="assets/cover.png" width="30%" >
-    <img src="assets/v2.gif" width="30%" >
+    <img src="assets/v2.gif" width="50%" >
 </figure>
 
 
