@@ -14,8 +14,8 @@ The data collection and model training for the segmentation module can be achiev
 The proposed method generalizes well on different unseen shapes under sub-millimeter tolerance in real world.
 <div align=center>
     <p float="left">
-        <img src="assets/cover.png" width="300" height="340" / >
-        <img src="assets/v2.gif" width="62%" />
+        <img src="assets/cover.png" width="280" height="300" / >
+        <img src="assets/v2.gif" width="60%" />
     </p>
 </div>
 
