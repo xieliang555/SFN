@@ -23,8 +23,8 @@ The proposed method generalizes well on different unseen shapes under sub-millim
 The proposed method generalizes well on the eye-in-hand experiment setting, where the camera is fixed on the robot end-effector and follows up with the robot. The hole base can be either fixed or under disturbance.
 <div align=center>
     <p float="left">
-        <img src="assets/sim.png" width="150" height="248"/ >
-        <img src="assets/real.png" width="150" height="248" />
+        <img src="assets/sim.png" width="150" height="200"/ >
+        <img src="assets/real.png" width="150" height="200" />
         <img src="assets/v3.gif" width="30%"/>
         <img src="assets/v4.gif" width="30%"/>
     </p>
