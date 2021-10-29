@@ -15,11 +15,12 @@ description
     <img src="assets/v2.gif" width="50%" />
 </p>
 
-## eye-in-hand
+## Eye-in-hand
 description
-<figure class="half">
-    <img src="assets/sim.png" width="20%" align=left/ ><img src="assets/real.png" width="20%"  align=right/>
-</figure>
+<p float="left">
+    <img src="assets/sim.png" width="20%"/ >
+    <img src="assets/real.png" width="20%" />
+</p>
 
 
 <!-- <div align=center>
