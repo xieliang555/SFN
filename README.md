@@ -18,7 +18,7 @@ description
 ## Eye-in-hand
 description
 <p float="left">
-    <img src="assets/sim.png" width="20%"/ >
+    <img src="assets/sim.png" width="100" height="200"/ >
     <img src="assets/real.png" width="20%" />
 </p>
 
