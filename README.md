@@ -5,19 +5,19 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 <!-- <center>![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)</center> -->
 
 ## Automatic data collection and annotation
-The data collection, annotation and model training for the segmentation module can be achieved within 30mins in real world.
+The data collection, annotation and model training for the segmentation module can be achieved efficiently within 30mins in real world.
 <img src="assets/v1.gif" width="40%" ></img>
 
 
 ## Eye-to-hand
-description
+The proposed method generalizes well on different unseen shapes under sub-millimeter tolerance in real world.
 <p float="left">
     <img src="assets/cover.png" width="300" height="340" / >
     <img src="assets/v2.gif" width="60%" />
 </p>
 
 ## Eye-in-hand
-description
+The proposed method generalizes well on the eye-in-hand experiment setting, where the camera is fixed on the robot end-effector and follows up with the robot. The hole base can be either fixed or under disturbance.
 <p float="left">
     <img src="assets/sim.png" width="150" height="248"/ >
     <img src="assets/real.png" width="150" height="248" />
