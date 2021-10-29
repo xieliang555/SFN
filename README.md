@@ -2,9 +2,13 @@
 
 <!-- <center>![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)</center> -->
 
+## eye-to-hand
+
 <img src="assets/cover.png" width="30%" ></img>
 
 
+## eye-in-hand
+<img src="assets/v1.gif" width="30%" ></img>
 
 
 ## Downloads
