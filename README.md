@@ -11,13 +11,13 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 ## Eye-to-hand
 description
 <center class="half">
-    <img src="assets/cover.png" width="30%" align=left ><img src="assets/v2.gif" width="50%"  align=right>
+    <img src="assets/cover.png" width="30%" align=left/ ><img src="assets/v2.gif" width="50%"  align=right/>
 </center>
 
 ## eye-in-hand
 description
 <figure class="half">
-    <img src="assets/sim.png" width="20%" align=left ><img src="assets/real.png" width="20%"  align=right>
+    <img src="assets/sim.png" width="20%" align=left/ ><img src="assets/real.png" width="20%"  align=right/>
 </figure>
 
 
