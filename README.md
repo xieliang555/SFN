@@ -15,7 +15,7 @@ The proposed method generalizes well on different unseen shapes under sub-millim
 <div align=center>
     <p float="left">
         <img src="assets/cover.png" width="300" height="340" / >
-        <img src="assets/v2.gif" width="65%" />
+        <img src="assets/v2.gif" width="62%" />
     </p>
 </div>
 
