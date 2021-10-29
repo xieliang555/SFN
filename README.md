@@ -4,7 +4,7 @@ In the peg insertion task,  human pays attention to the seam between the peg and
 
 <!-- <center>![(a) experinment setting (b) seen peg shapes (c) unseen peg shapes](assets/cover.png)</center> -->
 
-## automatic data collection
+## automatic data collection and annotation
 <img src="assets/v1.gif" width="30%" ></img>
 
 
@@ -23,9 +23,9 @@ Experinment setting
 <img src="assets/sim.png" width="30%" ></img>
 <img src="assets/real.png" width="30%" ></img>
 
-<div align=center>
+<!-- <div align=center>
 <img src="assets/cover.png" width="40%" ></img>
-</div>
+</div> -->
 
 ## Downloads
 
