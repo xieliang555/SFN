@@ -1,4 +1,4 @@
-# Seam Filling Net
+# Precision Peg-in-hole
 
 In the peg insertion task,  human pays attention to the seam between the peg and the hole and tries to fill it continuously with visual feedback. By imitating the human's manner, we design architecture with position and orientation estimators based on the seam representation for pose alignment, which proves to generalize well over unseen peg geometries. By putting the estimators into the closed-loop control with reinforcement learning, we further achieve a higher or comparable success rate, efficiency, precision, and robustness compared with the baseline methods. The policy is trained totally in simulation without any manual intervention. To achieve sim-to-real, a learnable segmentation module with automatic data collecting and labeling can be easily trained to decouple the perception and the policy, which helps the model trained in simulation quickly adapting to the real world with negligible effort. The proposed method works well on different experiment settings including eye-to-hand and eye-in-hand. Results are presented in simulation and on a physical robot.
 
