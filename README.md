@@ -31,9 +31,22 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
 </div>
 
 
+## Demos
+<iframe 
+    src="ass/v1_f.mp4" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    allowfullscreen="true" 
+    height=600 
+    width=800> 
+</iframe>s
+
+
 ## Downloads
 
 - Video: [[YouTube](https://www.youtube.com/watch?v=L5AhgDvevKA)][[bilibili](https://www.bilibili.com/video/BV1Zf4y1w7ea?spm_id_from=333.999.0.0)]
 - PDF: [[Supplementary](https://xieliang555.github.io/post/text/icra_supplementary.pdf)]
-- arXiv: coming soon
+- arXiv: 
 
