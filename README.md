@@ -33,7 +33,7 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
 
 ## Demos
 <iframe 
-    src="ass/v1_f.mp4" 
+    src="assets/v1_f.mp4" 
     scrolling="no" 
     border="0" 
     frameborder="no" 
@@ -42,6 +42,10 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
     height=600 
     width=800> 
 </iframe>s
+
+<!-- <video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="" type="video/mp4">
+</videos> -->
 
 
 ## Downloads
