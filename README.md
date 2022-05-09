@@ -43,9 +43,12 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
     width=800> 
 </iframe> -->
 
-<video id="video" controls>
+<!-- <video id="video" controls>
       <source src="assets/v1_f.mp4" type="video/mp4">
-</videos>
+</videos> -->
+
+<video src="assets/v1_f.mp4" type="video/mp4"></video>
+
 
 
 ## Downloads
