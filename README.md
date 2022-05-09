@@ -41,7 +41,7 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
     allowfullscreen="true" 
     height=600 
     width=800> 
-</iframe>s
+</iframe>
 
 <!-- <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="" type="video/mp4">
