@@ -49,4 +49,4 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
 
 
 ## Downloads
-arXiv: [SFN](https://arxiv.org/abs/2204.07776) [VSN](https://arxiv.org/abs/2205.04297)
+arXiv: [[SFN](https://arxiv.org/abs/2204.07776)] [[VSN](https://arxiv.org/abs/2205.04297)]
