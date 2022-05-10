@@ -13,19 +13,19 @@ The data collection and model training for the segmentation module can be achiev
 </div> 
 
 ## Real world experiments
-The proposed method generalizes well on different unseen shapes under sub-millimeter tolerance in real world.
+**Generalization:** the proposed framework generalizes well on different unseen 3D-printed models with sub-millimeter tolerance.
 <div align=center>
     <p float="left">
         <img src="assets/v2.gif" width="60%" />
     </p>
 </div>
 
-The hole base can be either fixed (static insertion) or under disturbance (dynamic insertion).
+**Robustness:** the hole base can be either fixed (static insertion) or under disturbance (dynamic insertion).
 <!-- The proposed method generalizes well on the eye-in-hand experiment setting, where the camera is fixed on the robot end-effector and follows up with the robot. The hole base can be either fixed or under disturbance. -->
 <div align=center>
     <p float="left">
-<!--         <img src="assets/sim.png" width="150" height="198"/ >
-        <img src="assets/real.png" width="150" height="198" /> -->
+<!--         <img src="assets/sim.png" width="150" height="198"/ > -->
+<!--         <img src="assets/real.png" width="150" height="198" /> -->
         <img src="assets/v3.gif" width="30%"/>
         <img src="assets/v4.gif" width="30%"/>
     </p>
