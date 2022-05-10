@@ -35,8 +35,8 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
 ## Demos
 <div align=center>
     <p float="left">
-        <img src="assets/v1_f.png" width="300" height="200"/ >
-        <img src="assets/v2_f.png" width="300" height="200" />
+        <img src="assets/v1_f.gif" width="300" height="200"/ >
+        <img src="assets/v2_f.gif" width="300" height="200" />
         <img src="assets/v3_f.gif" width="1"/>
         <img src="assets/v4_f.gif" width="1"/>
     </p>
