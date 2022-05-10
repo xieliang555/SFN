@@ -7,7 +7,7 @@ Peg-in-hole is essential in both industrial and service robots. Compared with th
 </div> 
 
 ## Automatic data collection and annotation
-The data collection and model training for the segmentation module can be achieved efficiently within 30mins in real world under the automatic data collection and annotation pipeline.
+The data collection and model fine-tunning for the SN can be achieved efficiently within 30mins in real world under the automatic data collection and mask annotation pipeline.
 <div align=center>
     <img src="assets/v1.gif" width="40%" ></img>
 </div> 
