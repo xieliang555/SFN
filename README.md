@@ -31,28 +31,6 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
 </div>
 
 
-## Demos
-<!-- <iframe 
-    src="assets/v1_f.mp4" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true" 
-    height=600 
-    width=800> 
-</iframe> -->
-
-<!-- <video id="video" controls>
-      <source src="assets/v1_f.mp4" type="video/mp4">
-</video> -->
-
-<video id="video" controls="" preload="none" poster="cover">
-      <source id="mp4" src="assets/v1_f.mp4" type="video/mp4">
-</video>
-
-<!-- <video src="assets/v1_f.mp4" type="video/mp4"></video> -->
-
 
 
 ## Downloads
