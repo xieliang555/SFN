@@ -12,7 +12,7 @@ The data collection and model training for the segmentation module can be achiev
     <img src="assets/v1.gif" width="40%" ></img>
 </div> 
 
-## Eye-to-hand
+## Real world experiments
 The proposed method generalizes well on different unseen shapes under sub-millimeter tolerance in real world.
 <div align=center>
     <p float="left">
@@ -20,12 +20,12 @@ The proposed method generalizes well on different unseen shapes under sub-millim
     </p>
 </div>
 
-## Eye-in-hand
-The proposed method generalizes well on the eye-in-hand experiment setting, where the camera is fixed on the robot end-effector and follows up with the robot. The hole base can be either fixed or under disturbance.
+The hole base can be either fixed (static insertion) or under disturbance (dynamic insertion).
+<!-- The proposed method generalizes well on the eye-in-hand experiment setting, where the camera is fixed on the robot end-effector and follows up with the robot. The hole base can be either fixed or under disturbance. -->
 <div align=center>
     <p float="left">
-        <img src="assets/sim.png" width="150" height="198"/ >
-        <img src="assets/real.png" width="150" height="198" />
+<!--         <img src="assets/sim.png" width="150" height="198"/ >
+        <img src="assets/real.png" width="150" height="198" /> -->
         <img src="assets/v3.gif" width="30%"/>
         <img src="assets/v4.gif" width="30%"/>
     </p>
@@ -33,7 +33,7 @@ The proposed method generalizes well on the eye-in-hand experiment setting, wher
 
 
 
-## Demos
+## EV charging application
 <div align=center>
     <p float="left">
         <img src="assets/v1_f.gif" width="300" height="200"/ >
