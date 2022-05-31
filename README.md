@@ -60,7 +60,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
     </figure>
 </div>
 
-![Alt text](assets/v1_f.gif  "a") 
+![](assets/v1_f.gif  "a") 
 
 
 
