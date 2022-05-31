@@ -36,7 +36,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 
 | <img src="assets/v3.gif" width="300" /> | <img src="assets/v4.gif" width="300"  /> |
 |:--:|:--:|
-|(static insertion)|(dynamic insertion)|
+|static insertion|dynamic insertion|
 
 </div>
 
