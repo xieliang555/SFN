@@ -74,9 +74,5 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 
 
 ## TODO
-- [ ] fix RNN encoder version that is currently incorrect!
-- [ ] add optional convolutional encoder for learning from images
-- [x] add Walker2D and ablation experiment scripts
-- [x] add jupyter notebook to visualize sparse point robot
-- [x] policy simulation script
-- [x] add working Dockerfile for running experiments
+- [ ] add instructions for this repository.
+- [x] add demos of the EV charging applications.
