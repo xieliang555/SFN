@@ -68,5 +68,5 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 | <img src="assets/v1_f.gif" width="300" height="200" title="c" alt="alt text"/> ) | <img src="assets/v4_f.gif" width="300" height="200"/> |
 |(c)|(d)|
 
-</div>https://arxiv.org/abs/2204.07776
+</div>
 
