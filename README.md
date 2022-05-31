@@ -7,7 +7,7 @@ Peg-in-hole is essential in both industrial and service robots. Compared with th
 </div> 
 
 ## Automatic data collection and annotation
-The sim2real adaptation is achieved by fine-tunning for the SN, with the training data (image+segmentation mask) collected and annotated auyomaticly. The data collection and model training can be achieved efficiently within 30mins in real world.
+The sim2real adaptation is achieved by fine-tunning for the SN, with the training data (image+segmentation mask) collected and annotated automaticly. The data collection and model training can be achieved efficiently within 30mins in real world.
 <div align=center>
     <img src="assets/v1.gif" width="40%" ></img>
 </div> 
