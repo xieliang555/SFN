@@ -37,12 +37,13 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 <div align=center>
     <p float="left">
         <img src="assets/v1_f.gif" width="300" height="200"/ >
+        <div align=center>
+             title
+        </div>
         <img src="assets/v2_f.gif" width="300" height="200" />
     </p>
 </div>
-<div align=center>
-    title
-</div>
+
 
 <div align=center>
     <p float="left">
