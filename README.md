@@ -13,7 +13,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 </div> 
 
 ## Real world experiments
-**Generalization:** the proposed framework generalizes well on different seen and unseen 3D-printed models with sub-millimeter tolerance.
+**Generalization:** the proposed framework generalizes well on different seen and unseen 3D-printed models with sub-millimeter(0.6mm) tolerance.
 <div align=center>
     <p float="left">
         <img src="assets/v2.gif" width="60%" />
