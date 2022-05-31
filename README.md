@@ -40,6 +40,8 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 
 
 ## EV charging application
+(a) The complete insertion process starts by commonding the robot-peg to approach the hole, and touch the surface by force control. Then the pose alignment is achieved by the proposed algotithm with pure vision feedback. Finally, when the alignment finishes, the peg will be pushed into the hole compliantly by the force control. (b) We test the aligning algorithm in the automatic EV charging system with the Tesla Model 3 and achieves 10/10 success rate. (c) We evaluate the robustness of the algorithm by changing the charging scenario. (d) We further evaluate the algorithm in more challenging conditions. The agent needs to perform dynamic insertion while a person is manually moving the EV socket.
+
 <!-- <div align=center>
     <p float="left">
         <img src="assets/v1_f.gif" title="a" width="300" height="200"/ >
