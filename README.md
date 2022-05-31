@@ -20,7 +20,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
     </p>
 </div>
 
-**Robustness:** the hole base can be either fixed (static insertion as in (a)) or under disturbance (dynamic insertion as in (b)).
+**Robustness:** the hole base can be either fixed (static insertion) or under disturbance (dynamic insertion).
 <!-- The proposed method generalizes well on the eye-in-hand experiment setting, where the camera is fixed on the robot end-effector and follows up with the robot. The hole base can be either fixed or under disturbance. -->
 <!-- <div align=center>
     <p float="left">
@@ -36,7 +36,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 
 | <img src="assets/v3.gif" width="300" /> | <img src="assets/v4.gif" width="300"  /> |
 |:--:|:--:|
-|(a)|(b)|
+|(static insertion)|(dynamic insertion)|
 
 </div>
 
