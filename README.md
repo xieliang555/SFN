@@ -34,7 +34,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 
 
 ## EV charging application
-<div align=center>
+<!-- <div align=center>
     <p float="left">
         <img src="assets/v1_f.gif" title="a" width="300" height="200"/ >
         <img src="assets/v2_f.gif" width="300" height="200" />
@@ -50,7 +50,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
             <figcaption>a</figcaption>
         </figure>
     </p>
-</div>
+</div> -->
 
 
 
