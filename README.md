@@ -53,8 +53,11 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 </div>
 
 
+<figure>
+        <img src="assets/v3_f.gif" width="300" height="200" title="c" alt="alt text"/>
+    <figcaption>a</figcaption>
+</figure>
 
- 
 ![image](assets/v1_f.gif  "a") ![alt-text-2](assets/v2_f.gif "b")
 
 
