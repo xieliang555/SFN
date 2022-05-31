@@ -34,7 +34,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 
 <div align="center">
 
-| <img src="assets/v3.gif" width="30%"/> | <img src="assets/v4.gif" width="30%" /> |
+| <img src="assets/v3.gif" width="300" height="200"/> | <img src="assets/v4.gif" width="300" height="200" /> |
 |:--:|:--:|
 |(a)|(b)|
 
