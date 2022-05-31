@@ -54,11 +54,11 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 
 
 
-|![](assets/v1_f.gif  "a") |![](assets/v1_f.gif  "a") |
+.center|![](assets/v1_f.gif  "a") |![](assets/v1_f.gif  "a") |
 |:--:|:--:|
 |a|b|
-<!-- |![](assets/v1_f.gif  "a") |![](assets/v1_f.gif  "a") |
-|c|d| -->
+|![](assets/v1_f.gif  "a") |![](assets/v1_f.gif  "a") |
+|c|d|
 
 
 ## Downloads
