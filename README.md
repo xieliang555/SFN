@@ -53,6 +53,7 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 
 
 ![(a)](assets/v1_f.gif) | ![(b)](assets/v2_f.gif)
+--- | ---
 
 ## Downloads
 arXiv: [[SFN](https://arxiv.org/abs/2204.07776)] [[VSN](https://arxiv.org/abs/2205.04297)]
