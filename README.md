@@ -1,8 +1,8 @@
 # Learning to Fill the Seam by Vision: Sub-millimeter Peg-in-hole on Unseen Shapes in Real World
 
-on arXiv: [https://arxiv.org/abs/2204.07776](https://arxiv.org/abs/2204.07776)
-
 <!---
+
+on arXiv: [https://arxiv.org/abs/2204.07776](https://arxiv.org/abs/2204.07776)
 by Liang Xie, Hongxiang Yu, Yinghao Zhao, Haodong Zhang, Zhongxiang Zhou, Minhang Wang, Yue Wang$^*$, Rong Xiong (Zhejiang University)
 --->
 
