@@ -74,7 +74,6 @@ The sim2real adaptation is achieved by fine-tunning for the SN, with the trainin
 |(c)|(d)|
 
 </div>
--->
 
 ## TODO
 - [ ] add instructions for this repository.
